@@ -1,0 +1,5 @@
+clone/
+texturepack/
+*.zip
+__pycache__/
+*.pyc
